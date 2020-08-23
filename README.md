@@ -1,7 +1,6 @@
 # Calendly
 ```
 In this project, the goal was to create a simple calendar application that allows the user to save events for each hour of the day. This app will runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
 Below are the parameters/functions for this project:
 ```
 ```
