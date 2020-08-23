@@ -1,9 +1,10 @@
 # Calendly
-
+```
 In this project, the goal was to create a simple calendar application that allows the user to save events for each hour of the day. This app will runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 Below are the parameters/functions for this project:
-
+```
+```
 User Story
 
 AS AN employee with a busy schedule
@@ -11,8 +12,8 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 
 SO THAT I can manage my time effectively
-
-
+```
+```
 Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
@@ -39,7 +40,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 
 THEN the saved events persist
-
+```
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/67169488/89252627-e97e1900-d5df-11ea-9f30-0b6cfa825c12.png)
 
