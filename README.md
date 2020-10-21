@@ -1,4 +1,4 @@
-# Calendly
+# Day Planner
 ```
 In this project, the goal was to create a simple calendar application that allows the user to save events for each hour of the day. This app will runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 Below are the parameters/functions for this project:
@@ -29,7 +29,7 @@ Acceptance Criteria
 <img width="732" alt="Calendly" src="https://user-images.githubusercontent.com/67169488/90987598-bfba7100-e551-11ea-98dc-c02929546ff0.png">
 
 
-[Calandly!](https://gcloud11.github.io/Calendly/)
+[Day Planner!](https://gcloud11.github.io/Calendly/)
 
 
 
