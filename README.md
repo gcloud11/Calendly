@@ -29,7 +29,7 @@ Acceptance Criteria
 <img width="732" alt="Calendly" src="https://user-images.githubusercontent.com/67169488/90987598-bfba7100-e551-11ea-98dc-c02929546ff0.png">
 
 
-[Day Planner!](https://gcloud11.github.io/Calendly/)
+[Day Planner!](https://gcloud11.github.io/Day Planner/)
 
 
 
